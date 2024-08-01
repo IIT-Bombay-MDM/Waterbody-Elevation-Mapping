@@ -1,0 +1,114 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="Layer_10_DATE">2019-01-19</MDI>
+    <MDI key="Layer_10_FLOODING">False</MDI>
+    <MDI key="Layer_10_FULL-DATA-COVERAGE">False</MDI>
+    <MDI key="Layer_11_DATE">2019-01-21</MDI>
+    <MDI key="Layer_11_FLOODING">False</MDI>
+    <MDI key="Layer_11_FULL-DATA-COVERAGE">True</MDI>
+    <MDI key="Layer_12_DATE">2019-01-24</MDI>
+    <MDI key="Layer_12_FLOODING">False</MDI>
+    <MDI key="Layer_12_FULL-DATA-COVERAGE">False</MDI>
+    <MDI key="Layer_13_DATE">2019-01-26</MDI>
+    <MDI key="Layer_13_FLOODING">False</MDI>
+    <MDI key="Layer_13_FULL-DATA-COVERAGE">True</MDI>
+    <MDI key="Layer_14_DATE">2019-01-31</MDI>
+    <MDI key="Layer_14_FLOODING">False</MDI>
+    <MDI key="Layer_14_FULL-DATA-COVERAGE">True</MDI>
+    <MDI key="Layer_15_DATE">2019-02-05</MDI>
+    <MDI key="Layer_15_FLOODING">False</MDI>
+    <MDI key="Layer_15_FULL-DATA-COVERAGE">True</MDI>
+    <MDI key="Layer_16_DATE">2019-02-13</MDI>
+    <MDI key="Layer_16_FLOODING">False</MDI>
+    <MDI key="Layer_16_FULL-DATA-COVERAGE">False</MDI>
+    <MDI key="Layer_1_DATE">2018-12-15</MDI>
+    <MDI key="Layer_1_FLOODING">False</MDI>
+    <MDI key="Layer_1_FULL-DATA-COVERAGE">False</MDI>
+    <MDI key="Layer_2_DATE">2018-12-17</MDI>
+    <MDI key="Layer_2_FLOODING">False</MDI>
+    <MDI key="Layer_2_FULL-DATA-COVERAGE">True</MDI>
+    <MDI key="Layer_3_DATE">2018-12-20</MDI>
+    <MDI key="Layer_3_FLOODING">False</MDI>
+    <MDI key="Layer_3_FULL-DATA-COVERAGE">False</MDI>
+    <MDI key="Layer_4_DATE">2018-12-22</MDI>
+    <MDI key="Layer_4_FLOODING">False</MDI>
+    <MDI key="Layer_4_FULL-DATA-COVERAGE">True</MDI>
+    <MDI key="Layer_5_DATE">2018-12-30</MDI>
+    <MDI key="Layer_5_FLOODING">False</MDI>
+    <MDI key="Layer_5_FULL-DATA-COVERAGE">False</MDI>
+    <MDI key="Layer_6_DATE">2019-01-04</MDI>
+    <MDI key="Layer_6_FLOODING">False</MDI>
+    <MDI key="Layer_6_FULL-DATA-COVERAGE">False</MDI>
+    <MDI key="Layer_7_DATE">2019-01-06</MDI>
+    <MDI key="Layer_7_FLOODING">False</MDI>
+    <MDI key="Layer_7_FULL-DATA-COVERAGE">True</MDI>
+    <MDI key="Layer_8_DATE">2019-01-14</MDI>
+    <MDI key="Layer_8_FLOODING">False</MDI>
+    <MDI key="Layer_8_FULL-DATA-COVERAGE">False</MDI>
+    <MDI key="Layer_9_DATE">2019-01-16</MDI>
+    <MDI key="Layer_9_FLOODING">False</MDI>
+    <MDI key="Layer_9_FULL-DATA-COVERAGE">True</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Histograms>
+      <HistItem>
+        <HistMin>0</HistMin>
+        <HistMax>0</HistMax>
+        <BucketCount>1</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>0</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">0</MDI>
+      <MDI key="STATISTICS_MEAN">0</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">0</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Histograms>
+      <HistItem>
+        <HistMin>-7.119</HistMin>
+        <HistMax>18249.119</HistMax>
+        <BucketCount>1000</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>14|107|172|175|92|39|116|105|68|57|52|35|43|49|60|78|77|79|90|111|134|149|146|205|212|284|345|446|455|582|653|831|912|1006|1195|1309|1433|1635|1698|2051|2147|2372|2621|3003|3186|3214|3720|4059|4118|4622|4676|5261|5602|5535|5897|6280|5788|6232|6099|7168|6066|6612|6142|6299|6117|5910|6441|5401|5587|4773|4983|4799|4522|3995|4716|3627|3502|3387|3103|2755|2799|2671|2566|2339|2179|1969|1734|1747|1665|1424|1620|1376|1193|1195|1096|1067|972|919|929|844|753|711|605|657|659|669|553|557|512|464|457|434|417|432|363|366|362|331|323|331|323|360|309|254|286|251|285|250|247|270|236|248|219|238|213|244|235|238|213|233|198|180|198|159|162|147|144|143|166|125|100|108|118|108|135|83|93|83|83|113|89|86|90|63|70|91|61|68|86|50|56|58|62|70|51|50|70|67|46|50|60|51|48|54|49|58|41|36|48|44|26|54|45|29|39|43|46|50|34|48|47|32|39|38|38|54|34|42|46|40|45|34|30|47|32|37|28|50|24|39|28|21|24|20|32|16|24|22|21|24|16|28|12|27|15|32|17|24|22|12|18|14|19|14|10|11|20|17|11|20|17|20|14|16|11|19|18|8|10|12|8|12|7|15|14|7|10|11|6|5|14|7|8|10|10|7|8|10|7|6|5|15|7|11|4|12|14|8|9|7|7|6|9|7|14|7|4|4|8|9|8|4|6|6|4|6|5|7|10|7|2|7|3|1|6|8|8|6|6|10|3|2|4|5|7|8|6|4|7|4|4|9|3|1|6|6|3|4|2|4|0|4|3|2|6|3|2|2|4|5|2|3|3|2|4|3|5|1|1|2|3|9|7|1|3|1|5|1|1|3|2|1|1|2|1|2|0|1|1|5|3|1|0|0|2|0|2|2|0|1|1|1|0|2|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|1|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|1|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">18240</MDI>
+      <MDI key="STATISTICS_MEAN">1246.9933586121</MDI>
+      <MDI key="STATISTICS_MINIMUM">2</MDI>
+      <MDI key="STATISTICS_STDDEV">539.47660725813</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Histograms>
+      <HistItem>
+        <HistMin>0</HistMin>
+        <HistMax>0</HistMax>
+        <BucketCount>1</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>0</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">0</MDI>
+      <MDI key="STATISTICS_MEAN">0</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">0</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="4">
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">18240</MDI>
+      <MDI key="STATISTICS_MEAN">1297.0592155457</MDI>
+      <MDI key="STATISTICS_MINIMUM">97</MDI>
+      <MDI key="STATISTICS_STDDEV">522.78378462492</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
